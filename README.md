@@ -45,24 +45,18 @@ Here are some ideas to get you started:
 ### 📊 Stats:
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sssssjy&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sssssjy&layout=compact&theme=buefy&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
+  <img src="https://img.shields.io/github/followers/sssssjy?style=for-the-badge&logo=github&label=Followers&color=24292f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sssssjy?style=for-the-badge&logo=github&label=Stars&color=24292f" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sssssjy&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=24292f" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sssssjy&query=$.public_gists&label=Gists&style=for-the-badge&logo=github&color=24292f" alt="Gists" />
 </p>
 
-### 📈 Contribution Graph (Last Year):
+### 📈 Contribution Graph (Last 12 Months):
 
 <p align="center">
   <img
     width="100%"
-    src="https://streak-stats.demolab.com/?user=sssssjy&theme=buefy&hide_border=true&date_format=%5BY%5D"
-    alt="Year Contribution"
+    src="https://github.com/users/sssssjy/contributions"
+    alt="Contributions in the last 12 months"
   />
 </p>
