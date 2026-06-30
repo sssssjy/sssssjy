@@ -47,22 +47,22 @@ Here are some ideas to get you started:
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=sssssjy&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sssssjy&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssssjy&layout=compact&theme=buefy&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sssssjy&layout=compact&theme=buefy&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
-### 📈 Activity Graph:
+### 📈 Contribution Graph (Last Year):
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sssssjy&theme=minimal&hide_border=true"
-    alt="Activity Graph"
+    src="https://streak-stats.demolab.com/?user=sssssjy&theme=buefy&hide_border=true&date_format=%5BY%5D"
+    alt="Year Contribution"
   />
 </p>
